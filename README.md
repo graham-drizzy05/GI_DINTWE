@@ -21,7 +21,7 @@ Whether I’m hacking on 3D games, diving into cybersecurity, or sharing unfilte
 |--------|-------------|------|
 | [🚀 3D Space Shooter](https://github.com/graham-drizzy05/space-shooter-webgl) | WebGL browser game with F-4 Phantom jet, physics, and animations | JavaScript, WebGL |
 | [🎮 Brick Breaker](https://github.com/graham-drizzy05/brick-breaker) | Classic paddle game using WebGL | WebGL, HTML5 |
-| [💻 Portfolio Website](https://graham-drizzy05.github.io/portfolio-site) | Terminal-inspired personal portfolio | HTML, CSS, AOS |
+| [💻 Portfolio Website](https://graham-drizzy05.github.io/Portfolio-Site/) | Terminal-inspired personal portfolio | HTML, CSS, AOS |
 | [🔒 Cybersecurity Labs](https://github.com/graham-drizzy05/cybersecurity-course) | Hands-on tasks from Cisco and AWS certs | Python, Shell |
 
 ---
