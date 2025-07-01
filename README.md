@@ -1,7 +1,5 @@
 # 👋🏽 Hi, I’m George Dintwe
 
-## The Journey of a Young Visionary
-
 Welcome to my space! I’m a 20-year-old Computer Engineering student who traded the small-town grind of Swartruggens for the creative chaos of Cape Town. Here, I’m not just learning to code—I’m chasing freedom, building up my skills, and making technology work for the dreamers who come from places like mine.
 
 I’m all about pushing boundaries—on the pitch during late-night football debates, in class as I level up on AWS, or in life as I challenge the idea that success only fits in a 9–5 box. This profile is for anyone who believes in more: more knowledge, more independence, more impact. 
