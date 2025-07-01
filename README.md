@@ -31,4 +31,5 @@
 ## 📫 Contact Me
 
 - Email: [dintwegeorge0@gmail.com](mailto:dintwegeorge0@gmail.com)
-- LinkedIn: [linkedin.com/in/george-dintwe-217301281](https://www.linkedin.com/in/george-dintwe-217301281)
+- LinkedIn: [linkedin.com/in/george-dintwe-217301281](https://www.linkedin.com/in/george-itumeleng-dintwe-217301281)
+
