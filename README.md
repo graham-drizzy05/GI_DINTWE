@@ -1,4 +1,4 @@
-## Hi, I’m George Dintwe
+## GEORGE ITUMELENG DINTWE
 
 Welcome to my space! I’m a 20-year-old Computer Engineering student who traded the small-town grind of Swartruggens for the creative chaos of Cape Town. Here, I’m not just learning to code—I’m chasing freedom, building up my skills, and making technology work for the dreamers who come from places like mine.
 
