@@ -1,4 +1,4 @@
-# 👋🏽 Hi, I’m George Dintwe
+Hi, I’m George Dintwe
 
 Welcome to my space! I’m a 20-year-old Computer Engineering student who traded the small-town grind of Swartruggens for the creative chaos of Cape Town. Here, I’m not just learning to code—I’m chasing freedom, building up my skills, and making technology work for the dreamers who come from places like mine.
 
@@ -19,26 +19,27 @@ Whether I’m hacking on 3D games, diving into cybersecurity, or sharing unfilte
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🚀 3D Space Shooter](https://github.com/graham-drizzy05/space-shooter-webgl) | WebGL browser game with F-4 Phantom jet, physics, and animations | JavaScript, WebGL |
-| [🎮 Brick Breaker](https://github.com/graham-drizzy05/brick-breaker) | Classic paddle game using WebGL | WebGL, HTML5 |
-| [💻 Portfolio Website](https://graham-drizzy05.github.io/Portfolio-Site/) | Terminal-inspired personal portfolio | HTML, CSS, AOS |
-| [🔒 Cybersecurity Labs](https://github.com/graham-drizzy05/cybersecurity-course) | Hands-on tasks from Cisco and AWS certs | Python, Shell |
+| [F4 Phantom Space Shooter](https://github.com/graham-drizzy05/space-shooter-webgl) | A 3D space shooter game rendered in real time with custom shaders, procedural missiles, and a textured F-4 Phantom jet.<br>
+                    Features include WASD controls, missiles launching, and a dynamic starfield - fully ported from WebGL to Python OpenGL | Python, PyOpenGL, GLFW, GLSL|
+| [🎮 Brick Breaker](https://github.com/graham-drizzy05/brick-breaker) | Classic paddle game using WebGL | WebGL, HTML5, CSS |
+| [💻 Portfolio Website](https://graham-drizzy05.github.io/PORTFOLIO-SITE/) | Terminal-inspired personal portfolio | HTML, CSS, AOS |
 
 ---
 
 ## 🛠 Skills
 
-- **Languages:** Java, JavaScript, C, Python (learning)
-- **Web Tech:** HTML, CSS, WebGL, WordPress
+- **Languages:** C, Java, JavaScript, HTML, CSS, Python (learning)
+- **Web Tech:** HTML, CSS, WebGL, WordPress, React
 - **Tools:** Git, VS Code, Chrome DevTools
-- **Concepts:** Object-Oriented Programming, Responsive Design, Data Structures
+- **Concepts:** Object-Oriented Programming,Real-time Rendering, Responsive Design, Data Structures
 
 ---
 
 ## 📫 Contact Me
 
 - Email: [dintwegeorge0@gmail.com](mailto:dintwegeorge0@gmail.com)
-- LinkedIn: [linkedin.com/in/george-dintwe-217301281](https://www.linkedin.com/in/george-itumeleng-dintwe-217301281)
+- LinkedIn: linkedin.com/in/george-dintwe-217301281(https://www.linkedin.com/in/george-itumeleng-dintwe-217301281)
+- YouTube: https://youtube.com/@himchronicles?si=qlXWaoLowtokWaux
 
 ---
 
