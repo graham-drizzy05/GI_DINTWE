@@ -19,8 +19,7 @@ Whether I’m hacking on 3D games, diving into cybersecurity, or sharing unfilte
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [F4 Phantom Space Shooter](https://github.com/graham-drizzy05/space-shooter-webgl) | A 3D space shooter game rendered in real time with custom shaders, procedural missiles, and a textured F-4 Phantom jet.<br>
-                    Features include WASD controls, missiles launching, and a dynamic starfield - fully ported from WebGL to Python OpenGL | Python, PyOpenGL, GLFW, GLSL|
+| [F4 Phantom Space Shooter](https://github.com/graham-drizzy05/space-shooter-webgl) | A 3D space shooter game rendered in real time with custom shaders, procedural missiles, and a textured F-4 Phantom jet.Features include WASD controls, missiles launching, and a dynamic starfield - fully ported from WebGL to Python OpenGL | Python, PyOpenGL, GLFW, GLSL|
 | [🎮 Brick Breaker](https://github.com/graham-drizzy05/brick-breaker) | Classic paddle game using WebGL | WebGL, HTML5, CSS |
 | [💻 Portfolio Website](https://graham-drizzy05.github.io/PORTFOLIO-SITE/) | Terminal-inspired personal portfolio | HTML, CSS, AOS |
 
