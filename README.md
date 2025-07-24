@@ -37,7 +37,7 @@ Whether I’m hacking on 3D games, diving into cybersecurity, or sharing unfilte
 ## 📫 Contact Me
 
 - Email: [dintwegeorge0@gmail.com](mailto:dintwegeorge0@gmail.com)
-- LinkedIn: linkedin.com/in/george-dintwe-217301281(https://www.linkedin.com/in/george-itumeleng-dintwe-217301281)
+- LinkedIn: (https://www.linkedin.com/in/george-itumeleng-dintwe-217301281)
 - YouTube: https://youtube.com/@himchronicles?si=qlXWaoLowtokWaux
 
 ---
